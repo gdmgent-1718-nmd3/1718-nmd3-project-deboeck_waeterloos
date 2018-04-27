@@ -3,26 +3,65 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 1.5
+  task: Idee, keuze museum, andere apps bekijken ...
 -
   time: 0.75
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  task: Bezoek fnac voor onderzoek Smartwatch
 -
   time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  task: Bezoek Museum 
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 2
+  task: Analyse
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 0.5
+  task: Analyse
+-
+  time: 1.5
+  task: Analyse
+-
+  time: 2
+  task: Bezoek Museum
+-
+  time: 1.5
+  task: Journey maps 
+-
+  time: 1.5
+  task: Pitch en journey maps 
+-
+  time: 0.3
+  task: Pitch
+-
+  time: 1.5
+  task: Stile tiles
+-
+  time: 2
+  task: Stile tiles
+-
+  time: 3
+  task: Stile tiles 
+-
+  time: 1.5
+  task: Paper prototype
+-
+  time: 3
+  task: Paper prototype
+-
+  time: 0.5
+  task: Style tile
+-
+  time: 1
+  task: Paper prototype
+-
+  time: 5
+  task: Online productiedossier
+-
+  time: 2.5
+  task: Online productiedossier, feedback
+-
+  time: 1.5
+  task: Online productiedossier, ideaboard
+-
+  time: 3
+  task: Ideabord, wireflow smartphone, online productiedossier (teksten herformuleren)

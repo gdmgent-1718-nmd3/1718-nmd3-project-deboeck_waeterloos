@@ -1,0 +1,70 @@
+.content {
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+
+body {
+    font-family: $font-family-base;
+    font-size: 16px;
+  }
+  
+  h1 {
+    font-family: $font-family-title;
+    font-size: 32px;
+    text-transform: uppercase; 
+    color: $primary;  
+  }
+   
+  h2 {
+    font-family: $font-family-title;
+    font-size: 24px; 
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-family: $font-family-title;
+    font-size: 18px; 
+    color: $primary;
+  }
+  
+  nav a {
+    font-family: $font-family-title;
+    text-transform: uppercase;
+}
+
+  .gdm-nav-level-1 {
+    text-transform: unset;
+ }
+
+  .gdm-nav-level-2 {
+    text-transform: unset;
+    color: gray;
+  }
+  
+  .zoom {
+    transition: transform .2s;
+    width: 400px;
+    margin: 0 auto;
+    margin-left: 50px;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.5);
+  }
+
+  .image_TA {
+    width: 300px;
+    margin-left: 40px;
+  }
+  
+  .image_TA_smartphone {
+    height:300px;
+    margin-left: 40px;
+  }
+
+  #gevel_museum {
+   width: 300px;    
+  }

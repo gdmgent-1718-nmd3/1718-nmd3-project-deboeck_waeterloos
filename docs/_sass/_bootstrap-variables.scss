@@ -10,13 +10,15 @@
 // Color system
 //
 
-$cyan:    #17a2b8 !default;
-$primary: $cyan;
+$orange:    #E37D00 !default;
+$primary: $orange;
 
 // Fonts
 //
 // Font, line-height, and color for body text, headings, and more.
 
-@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Barlow|Source+Sans+Pro');
 
-$font-family-base: Merriweather, serif;
+$font-family-base: 'Source Sans Pro', sans-serif;
+$font-family-title: 'Barlow', sans-serif;
