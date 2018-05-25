@@ -53,3 +53,5 @@ Vraagteken icoon veranderen! ‘i’ icoontje van info.
 
 Meerwaarde kan zijn dat de tekstjes worden voorgelezen. Je drukt op een knopje (luidsprekertje) en dan wordt de tekst voorgelezen via je geconnecteerde oortjes/koptelefoon
 
+<img src="../../../images/gebruikerstest_watch.jpg" alt="smartwatch" class="image_gebruikerstest">
+<img src="../../../images/gebruikerstest_watch_1.jpg" alt="smartwatch" class="image_gebruikerstest">

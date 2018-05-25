@@ -61,10 +61,16 @@
   task: Screen design smartwatch 
 -
   time: 2.5
-  task: screen design smartwatch, feedback 
+  task: Screen design smartwatch, feedback 
 -
   time: 1.5
-  task: screen design smartwatch aanpassen naar feedback
+  task: Screen design smartwatch aanpassen naar feedback
 -
   time: 3
-  task: screen design smartwatch, wireflow smartphone
+  task: Screen design smartwatch, wireflow smartphone
+-
+  time: 2
+  task: Wireflow smartphone
+-
+  time: 1.5
+  task: Wireflow smartphone testen en aanpassen
