@@ -27,5 +27,22 @@ Ticketverkoop:
  - Per soort ticket een aantal selecteren en niet achteraan. Want wat als je met 3 bent?
  - Na ticketverkoop (bij bedankt voor uw aankoop) nog een knop voor ‘keer terug naar menu’
 
+### Test 2
+
+ - Menu is niet duidelijk omdat het niet terug toe klapt. 
+ - De app doet wat hij moet doen, is duidelijk. Zegt wat je moet doen.
+ - Het lettertype is duidelijk, goed leesbaar.
+ - Op elke pagina is een knop naar het startscherm.
+ - De ticketaankoop stappen zijn duidelijk. 
+ - Inzoomen op een specifieke foto die je groter wil zien.
+ - UiTPAS met een kleine i?
+ - Bij ticketverkoo; speciale tickets en groepstickets misschien toevoegen.
+ - Telefoonnummer bij registeren ticketaankoop en volgorde veranderen: postcode en woonplaats voor straat. 
+ - Bij ticketaankoop: ‘betalen met app’ en ‘betalen met kaartlezer’ centreren. Op dezelfde pagina ‘om de betaling te bevestigen.’
+ - Bij tickets nog bijzetten dat het eventueel naar de smartwatch wordt gestuurd. 
+ - Link bij bv. Eames dat je leidt naar andere werken van hem in het museum. 
+
+
+
  <img src="../../../images/gebruikerstest_app.jpg" alt="app" class="image_gebruikerstest">
  <img src="../../../images/gebruikerstest_app_2.jpg" alt="app" class="image_gebruikerstest">

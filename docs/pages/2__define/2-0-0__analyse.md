@@ -33,7 +33,7 @@ Bespreek het concept ‘museumbezoek’ met minstens vijf mensen/bezoekers. Kijk
 5. Kunst interesseert hem. Of het museum interactief is, maakt hem niet uit. Hij gaat liever naar musea zonder interactiviteit, zodat hij alles op zijn eigen tempo kan doen en alles op zijn gemak kan lezen en bekijken. Hij volgt meestal de route zoals het museum aangeeft. Hij kan uren blijven plakken in ruimtes die hem aantrekken, ruimtes die gaan over dingen in mijn interesseveld. Vaak zijn dat zalen waar het over fotografie gaat, of zalen waar het over zijn studierichting gaat. 
 <br>Er zijn bepaalde musea waar hij ieder jaar opnieuw naar de tijdelijke collectie gaat kijken zoals bijvoorbeeld het Dr. Guislain museum in Gent, het fotomuseum in Antwerpen... Verder gaat hij ook naar tijdelijke tentoonstellingen als hij er ergens over lees en het hem interesseert. Als hij al in het museum is zal hij van de gelegenheid gebruik maken om ook andere aanwezige tentoonstellingen te bekijken. 
 <br>Indien er een app zou zijn van het museum dat hij gaat bezoeken, zou hij deze niet gebruiken. Hij leest alles liever zelf op zijn gemak. 
-- ?
+- Wannes
 <br>
 <br>	
 6. Ze gaat naar het Design Museum voor de tentoonstelling die op dat moment loopt en wordt vooral gelokt aan de hand van publiciteit en recensies die ze gelezen heeft. Als er ergens een recensie van staat zal ze sneller geneigd zijn om erheen te gaan. Ze gaat niet snel naar de vaste collectie, want de is al wat oud. Ze heeft hem al eens gezien en ze zouden er iets nieuws mee moeten doen om haar opnieuw te kunnen lokken. 
