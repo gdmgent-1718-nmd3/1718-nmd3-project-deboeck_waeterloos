@@ -44,5 +44,7 @@ Meerwaarde in het museum?
 Meerwaarde kan zijn dat de tekstjes worden voorgelezen. Je drukt op een knopje (luidsprekertje) en dan wordt de tekst voorgelezen via je geconnecteerde oortjes/koptelefoon
 
 <img src="../../../images/gebruikerstest_watch.jpg" alt="smartwatch" class="image_gebruikerstest">
+<p class="uitlegfoto">Het testen van de paper prototype van de smartwatch-app. </p>
 
 <img src="../../../images/gebruikerstest_watch_1.jpg" alt="smartwatch" class="image_gebruikerstest">
+<p class="uitlegfoto">Overzicht van de gemaakte paper prototype.</p>

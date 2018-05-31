@@ -45,4 +45,7 @@ Ticketverkoop:
 
 
  <img src="../../../images/gebruikerstest_app.jpg" alt="app" class="image_gebruikerstest">
+ <p class="uitlegfoto">Testen van digital prototype (startscherm).</p> 
+
  <img src="../../../images/gebruikerstest_app_2.jpg" alt="app" class="image_gebruikerstest">
+ <p class="uitlegfoto">Testen van digital prototype (ticketverkoop).</p>
