@@ -12,3 +12,5 @@ Wie zijn we?
 
  - Mathilde Waeterloos, 2CMO-PD
  - Marthe De Boeck, 2CMO-PD
+
+<img src="../../../../../../images/fotomathi.png" alt="Mathilde Waeterloos" class="image_wiezijnwe">

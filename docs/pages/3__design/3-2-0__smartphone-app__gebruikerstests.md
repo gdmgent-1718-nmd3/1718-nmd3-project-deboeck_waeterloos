@@ -36,7 +36,7 @@ Ticketverkoop:
  - De ticketaankoop stappen zijn duidelijk. 
  - Inzoomen op een specifieke foto die je groter wil zien.
  - UiTPAS met een kleine i?
- - Bij ticketverkoo; speciale tickets en groepstickets misschien toevoegen.
+ - Bij ticketverkoop: speciale tickets en groepstickets misschien toevoegen.
  - Telefoonnummer bij registeren ticketaankoop en volgorde veranderen: postcode en woonplaats voor straat. 
  - Bij ticketaankoop: ‘betalen met app’ en ‘betalen met kaartlezer’ centreren. Op dezelfde pagina ‘om de betaling te bevestigen.’
  - Bij tickets nog bijzetten dat het eventueel naar de smartwatch wordt gestuurd. 
