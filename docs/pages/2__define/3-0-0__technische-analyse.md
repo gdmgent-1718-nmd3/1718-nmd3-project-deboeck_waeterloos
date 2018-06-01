@@ -56,7 +56,7 @@ Klein display, dus kleine densiteit voor infoweergave
 Smartphone: Samsung Galaxy S8 
 -----------------------------
 
-### Gebruik: 
+### Gebruik 
  - Gemaakt om voor iedereen beter toegankelijk te zijn. 
  - Comfortabel in 1 hand.
  - Je ziet alleen content, bijna geen rand meer. 
@@ -65,7 +65,7 @@ Smartphone: Samsung Galaxy S8
 
 <img src="../../images/ta_smartphone1.png" alt="gebruik_smartphone" class="image_TA">
 
-### Technische specificaties: 
+### Technische specificaties 
  - Draadloos opladen mogelijk.
  - Infinity display → on-onderbroken, gestroomlijnd oppervlak zonder hoeken of randen en helemaal van glas. Een Ful Frontal, edge-to-edge  scherm zonder enige omlijsting. Full HD+
  - Beeldverhouding van 18,5:9
@@ -77,6 +77,6 @@ Smartphone: Samsung Galaxy S8
 
 <img src="../../images/ta_smartphone2.png" alt="specs_smartphone" class="image_TA_smartphone">
 
-### Knoppen: 
+### Knoppen
  - Volume regeling
  - Vergrendelen 
