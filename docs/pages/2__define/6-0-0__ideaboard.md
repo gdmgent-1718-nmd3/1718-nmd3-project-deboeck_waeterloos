@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
+ <img src="../../images/ideaboard.png" alt="app" class="image_concept">

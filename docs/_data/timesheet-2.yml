@@ -73,11 +73,16 @@
   task: Wireflow smartphone aanpassen en prodoductiedossier aanvullen (planning)
 -
   time: 6
-  task: visual designs app
+  task: Visual designs app
 -
   time: 5
-  task: visual designs mobile
+  task: Visual designs mobile
 -
   time: 3
-  task: visual designs desktop + aanvullen productiedossier
-  
+  task: Visual designs desktop en aanvullen productiedossier
+-
+  time: 3
+  task: Definitief afwerken visuale designs website (mobile en desktop)
+-
+  time: 2
+  task: Aanvullen en controleren productiedossier
