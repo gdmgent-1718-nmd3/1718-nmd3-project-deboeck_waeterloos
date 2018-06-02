@@ -6,3 +6,6 @@ published: true
 # ─────────────────────
 title: Kleuren
 ---
+<h2>Smartwatch</h2>
+
+<h2>Smartphone</h2>

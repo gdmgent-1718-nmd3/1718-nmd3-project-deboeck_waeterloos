@@ -1,0 +1,171 @@
+@charset "UTF-8";
+
+.content {
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+.background-color{
+    background-color:black;
+    padding-left:40px;
+    padding-right:40px;
+    padding-bottom:40px;
+    padding-top:40px;
+}
+
+h1 {
+    font-family: $font-family-title;
+    font-size: 32px;
+    text-transform: uppercase; 
+    color: $primary; 
+    margin-bottom:50px; 
+}
+
+h2 {
+    font-family: $font-family-title;
+    font-size: 35px; 
+    text-transform: uppercase;
+    color:rgb(71, 71, 71);
+    margin-bottom:30px;
+    padding-top:20px;
+  }
+
+  
+
+/*TYPOGRAFIE*/
+
+/*smartwatch*/ 
+
+
+.aanduiding_fontsize{
+    font-size:14px;
+    font:$font-family-base;
+    display: inline;
+    color:rgb(54, 54, 54);
+}
+
+.sw_titel_n1{
+    color: $primary;
+    font-family: $font-family-title;
+    font-size: 26px;
+    text-transform: uppercase;
+    display: inline;
+  }
+
+.sw_titel_n2{
+    color: white;
+    font-family: $font-family-title;
+    font-size: 26px;
+    text-transform: uppercase;
+    display: inline;
+    }
+
+.sw_titel_n2_oranjebold{
+    color: $primary;
+    font-family: $font-family-title;
+    font-weight: bold;
+    font-size: 26px;
+    text-transform: uppercase;
+    display: inline;
+}
+
+.sw_titel_n3{
+    color: white;
+    font-family: $font-family-title;
+    font-size: 24px;
+    text-transform: uppercase;
+    display: inline;
+    }
+.sw_citaat{
+    font:$font-family-base;
+    font-size:20px;
+    color:white;
+    display: inline;
+    font-style: italic;
+}
+
+.sw_lopendetekst{
+    font:$font-family-base;
+    font-size:20px;
+    color:white;
+    display: inline;
+}
+
+.sw_titel_navigatie{
+    font:$font-family-base;
+    font-size:22px;
+    color:white;
+    font-weight: 100;
+    display: inline;
+}
+
+
+
+/*smartphone*/ 
+
+.sph_titel_n1{
+    color: white;
+    font-family: $font-family-title;
+    font-size: 18px;
+    text-transform: uppercase;
+    display: inline;
+  }
+
+.sph_titel_n2_oranjebold{
+    color: $primary;
+    font-family: $font-family-title;
+    font-weight: bold;
+    font-size: 26px;
+    text-transform: uppercase;
+    display: inline;
+}
+.sph_titel_n2{
+    color: white;
+    font-family: $font-family-title;
+    font-size: 26px;
+    text-transform: uppercase;
+    display: inline;
+    }
+
+.sph_titel_n3{
+    color: white;
+    font-family: $font-family-title;
+    font-size: 25px;
+    text-transform: uppercase;
+    display: inline;
+    }
+    
+.sph_citaat{
+    font:$font-family-base;
+    font-size:18px;
+    color:white;
+    display: inline;
+    font-style: italic;
+}
+
+.sph_citaat_oranje{
+    font:$font-family-base;
+    font-size:18px;
+    color:$primary;
+    display: inline;
+}
+    
+.sph_lopendetekst{
+    font:$font-family-base;
+    font-size:20px;
+    color:white;
+    display: inline;
+}
+
+.sph_titel_navigatie{
+    font:$font-family-base;
+    font-size:20px;
+    color:white;
+    display: inline;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+
+
+/*KLEUR*/

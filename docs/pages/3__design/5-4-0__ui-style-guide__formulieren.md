@@ -6,3 +6,7 @@ published: true
 # ─────────────────────
 title: Formulieren 
 ---
+
+<h2>Smartwatch</h2>
+
+<h2>Smartphone</h2>
