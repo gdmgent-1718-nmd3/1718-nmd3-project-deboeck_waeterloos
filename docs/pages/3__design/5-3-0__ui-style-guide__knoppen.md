@@ -8,7 +8,8 @@ title: Knoppen
 ---
 <h2>Smartwatch</h2>
 
-<img src="../../../images/kop_watch.png" alt="wireflow smartphone" class="image_wireflow_smartphone_breder">
+<img src="../../../images/knop_watch.png" alt="knop watch" class="knop_watch">
+<p>Dit is de knop in onze smartwatch.</p>
    
 <h2>Smartphone</h2>
 

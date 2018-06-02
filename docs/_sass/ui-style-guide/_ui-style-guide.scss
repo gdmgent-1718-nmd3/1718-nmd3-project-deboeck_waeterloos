@@ -196,18 +196,37 @@ p {
 }
 
 /*BUTTONS*/
+.knop_watch {
+    width: 200px;
+}
 
-.button-primary,
-.button-primary:active,
-.button-primary:visited {
-    background-color: 1px, bold;
+.button-primary {
+    background-color: #000000;
     border-color: #FFFFFF;
-    text-decoration: uppercase;
+    font-style: uppercase;
     text-align: center;
     color: #FFFFFF;
 }
 
-.button--primary:hover {
-    background-color:   ;
-    border-color: ;
-    color:;
+/*FORMULIER*/
+
+.invulstrook {
+    color: #000000;
+    border: 2px;
+    border-radius: 10px;
+    background-color: #ACACAC;
+    padding: 10px;
+    width: 316px;
+    height: 38;
+}
+
+.invulstrook_watch {
+    color: #FFFFFF;
+    border: 2px;
+    border-radius: 20px;
+    background-color: #4D4D4D;
+    padding: 10px;
+    width: 296px;
+    height: 45;
+}
+
