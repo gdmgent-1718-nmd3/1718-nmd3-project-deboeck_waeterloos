@@ -8,7 +8,7 @@ title: Screen Designs
 ---
 Link
 ----
-<a href="https://xd.adobe.com/view/dc4441f3-a651-406a-495f-46ca5a8d3e48-aa75/" TARGET="_blank"> Adobe XD</a>
+<a href="https://xd.adobe.com/view/311465a5-fb4a-4d13-7072-a9d4a3fe3ad8-4725/" TARGET="_blank"> Adobe XD</a>
 
 Overzicht
 ---------

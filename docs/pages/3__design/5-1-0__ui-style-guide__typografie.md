@@ -6,6 +6,7 @@ published: true
 # ─────────────────────
 title: Typografie
 ---
+
 <h2>Smartwatch</h2>
 
 <p class="sw_titel_n1">Titel niveau 1 <p class="aanduiding_fontsize">26px</p></p>

@@ -83,11 +83,12 @@
 -
   time: 3
   task: Maken wireframes desktop + aanvullen productie dossier
-
 -
   time: 4
   task: Definitief afwerken visuals smartphone en smartwatch, aanvullen poductiedossier
-
 -
   time: 3
   task: Aanvullen poductiedossier (screendesigns, wireflows, sitemap, foto intro)
+-
+  time: 2
+  task: Ui style guide (lettertype)
