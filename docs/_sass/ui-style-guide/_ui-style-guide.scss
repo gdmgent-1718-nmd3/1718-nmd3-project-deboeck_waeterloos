@@ -435,25 +435,55 @@ p {
     outline:0;
 }
 
+
 /*FORMULIER*/
 
-.invulstrook {
-    color: #000000;
-    border: 2px;
-    border-radius: 10px;
-    background-color: #ACACAC;
-    padding: 10px;
-    width: 316px;
-    height: 38;
-}
-
-.invulstrook_watch {
-    color: #FFFFFF;
+.sw_invulstrook_nummer{
+    color: rgb(0, 0, 0);
     border: 2px;
     border-radius: 20px;
-    background-color: #4D4D4D;
+    background-color: rgb(150, 150, 150);
     padding: 10px;
     width: 296px;
     height: 45;
 }
+.sw_invulstrook_nummer::placeholder{
+    color:white;
+    font-family: $font-family-base;
+}
 
+.sph_invulstrook_gegevens{
+    color: #000000;
+    border: 2px;
+    border-radius: 10px;
+    background-color: rgb(224, 224, 224);
+    padding: 10px;
+    width: 316px;
+    height: 38px;
+}
+
+.sph_invulstrook_gegevens::placeholder{
+    color:black;
+    font-size:15px;
+    font-family: $font-family-base;
+}
+
+.sph_invulstrook_tickets{
+    color: rgb(0, 0, 0) ;
+    border: 2px;
+    border-radius: 10px;
+    background-color: rgb(224, 224, 224);
+    padding: 10px;
+    width: 316px;
+    height: 38px;
+}
+
+form{
+    margin-bottom:30px;
+}
+
+.label{
+    color:white;
+    font-family: $font-family-base;
+    font-size:15px;
+}
