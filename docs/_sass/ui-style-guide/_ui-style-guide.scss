@@ -464,7 +464,7 @@ p {
 
 .sph_invulstrook_gegevens::placeholder{
     color:black;
-    font-size:15px;
+    font-size:13px;
     font-family: $font-family-base;
 }
 
@@ -486,4 +486,36 @@ form{
     color:white;
     font-family: $font-family-base;
     font-size:15px;
+}
+
+.sph_invulstrook_nummer {
+    color:#FFFFFF;
+    border: 2px;
+    border-radius: 20px;
+    background-color: rgb(150, 150, 150);
+    padding: 10px;
+    width: 296px;
+    height: 45;
+}
+
+.sph_invulstrook_nummer::placeholder{
+    color:#FFFFFF;
+    font-size:13px;
+    font-family: $font-family-base;
+}
+
+.sph_invulstrook_nummer_wit {
+    color: rgb(0, 0, 0);
+    border: 2px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    padding: 10px;
+    width: 296px;
+    height: 45;
+}
+
+.sph_invulstrook_nummer_wit::placeholder{
+    color:#4D4D4D;
+    font-size:13px;
+    font-family: $font-family-base;
 }

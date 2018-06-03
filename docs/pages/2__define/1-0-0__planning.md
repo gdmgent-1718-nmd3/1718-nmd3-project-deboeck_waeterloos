@@ -27,7 +27,7 @@ Visual designs smartphone | 14 mei                    |Mathilde: feedback toepas
 Website sitemap           | 28 mei                    |Samen                                   |
 Website wireframes        | 28 mei                    |Mathilde                                |
 Website visual designs    | 28 mei                    |Marthe                                  |
-Ui-style-guide            | 03 juni                   |Marthe                                  |
+Ui-style-guide            | 03 juni                   |Samen                                   |
 ==========================|===========================|========================================|
 KLAAR                     |                           |                                        |
 {:.table}

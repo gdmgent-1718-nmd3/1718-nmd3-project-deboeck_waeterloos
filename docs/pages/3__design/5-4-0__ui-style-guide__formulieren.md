@@ -10,15 +10,25 @@ title: Formulieren
 <h2>Smartwatch</h2>
 
 <form>
-  <input class="sw_invulstrook_nummer" type="text" name="zoek" placeholder="Tik om in te voeren">
+  <input class="sw_invulstrook_nummer" type="text" name="zoek" placeholder="tik om in te voeren">
 </form>
 
 
 <h2>Smartphone</h2>
 
 <form>
+  <input class="sph_invulstrook_nummer" type="text" name="zoek" placeholder="tik om in te voeren">
+</form>
+
+
+<form>
+  <input class="sph_invulstrook_nummer_wit" type="text" name="zoek" placeholder="tik om in te voeren">
+</form>
+
+<form>
   <input class="sph_invulstrook_gegevens" type="text" name="zoek" placeholder="Naam*">
 </form>
+
 
 <form>
   <div class="form-group">

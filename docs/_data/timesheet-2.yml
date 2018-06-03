@@ -87,5 +87,8 @@
   time: 2
   task: Aanvullen en controleren productiedossier
 -
-  time: 3
+  time: 4
   task: ui-style-guide
+-
+  time: 
+  task: pitch
