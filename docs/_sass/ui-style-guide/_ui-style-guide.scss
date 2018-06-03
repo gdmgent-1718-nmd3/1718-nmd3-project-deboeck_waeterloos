@@ -195,7 +195,9 @@ p {
     border: solid 1px #FFFFFF;
 }
 
+
 /*BUTTONS*/
+
 .knop_watch {
     width: 200px;
     margin-right: 30px;
@@ -210,28 +212,35 @@ p {
     padding-left:40px;
     margin-bottom:20px;
     display: block;
+    cursor: pointer;
 
     text-transform: uppercase;
     font-size:18px;
     color:white;
     font-family: $font-family-title;
     text-align:left;
-
-    background-image:url("../../images/pijltje_button_white.png");
-    background:no-repeat;
-}
-
-.pijltje_white{
-    background-image:url("../../images/pijltje_button_white.png");
-    background:no-repeat;
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+     .fa-arrow-right{
+         font-size:12px;
+         color:white;
+         display: flex;
+         padding-right:20px;
+     }
 }
 
 .button_museumbezoek:active{
     text-decoration: none;
-    border: 1,5px solid white;
     background-color: white;
     color:black;
     font-weight:bold;
+    .fa-arrow-right{
+        color:black;
+    }
+}
+.button_museumbezoek:focus {
+    outline:0;
 }
 
 .button_klaar{
@@ -242,6 +251,7 @@ p {
     border: 1,5px solid white;
     margin-bottom:20px;
     display: block;
+    cursor: pointer;
 
     font-size:18px;
     color:white;
@@ -256,6 +266,10 @@ p {
     font-weight:bold;
 }
 
+.button_klaar:focus {
+    outline:0;
+}
+
 .button_nummer_invoeren{
     text-decoration: none;
     background-color:black;
@@ -265,10 +279,21 @@ p {
     border-color:rgb(255,140,0);
     margin-bottom:20px;
     display: block;
+    cursor: pointer;
 
     font-size:18px;
     color:rgb(255,140,0);
     font-family: $font-family-title;
+    padding-left:80px;
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+     .fa-arrow-right{
+         font-size:12px;
+         color:rgb(255, 140, 0);
+         display: flex;
+         padding-right:20px;
+     }
 }
 
 .button_nummer_invoeren:active{
@@ -277,8 +302,138 @@ p {
     background-color: rgb(255, 140, 0);
     color:black;
     font-weight:bold;
+    .fa-arrow-right{
+        color:black;
+    }
 }
 
+.button_nummer_invoeren:focus {
+    outline:0;
+}
+
+.button_verder{
+    text-decoration: none;
+    background-color:black;
+    width:313px;
+    height:44px;
+    border: 1,5px solid $primary;
+    border-color:white;
+    margin-bottom:20px;
+    display: block;
+    cursor: pointer;
+
+    font-size:18px;
+    color:white;
+    font-family: $font-family-title;
+    padding-left:130px;
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+     .fa-arrow-right{
+         font-size:12px;
+         color:white;
+         display: flex;
+         padding-right:20px;
+     }
+}
+
+.button_verder:active{
+    text-decoration: none;
+    border: 1,5px solid white;
+    background-color: white;
+    color:black;
+    font-weight:bold;
+    .fa-arrow-right{
+        color:black;
+    }
+}
+
+.button_verder:focus {
+    outline:0;
+}
+
+.button_terug{
+    text-decoration: none;
+    background-color:black;
+    width:313px;
+    height:44px;
+    border: 1,5px solid $primary;
+    border-color:rgb(255,140,0);
+    margin-bottom:20px;
+    display: block;
+    cursor: pointer;
+
+    font-size:18px;
+    color:rgb(255,140,0);
+    font-family: $font-family-title;
+    padding-right:130px;
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+     .fa-arrow-left{
+         font-size:12px;
+         color:rgb(255, 140, 0);
+         display: flex;
+         padding-left:20px;
+     }
+}
+
+.button_terug:active{
+    text-decoration: none;
+    border: 1,5px solid rgb(255, 140, 0);
+    background-color: rgb(255, 140, 0);
+    color:black;
+    font-weight:bold;
+    .fa-arrow-left{
+        color:black;
+    }
+}
+
+.button_terug:focus {
+    outline:0;
+}
+
+.button_serre{
+    text-decoration: none;
+    background-color:black;
+    width:313px;
+    height:44px;
+    border: 1,5px solid $primary;
+    border-color:white;
+    margin-bottom:20px;
+    display: block;
+    cursor: pointer;
+
+    font-size:18px;
+    color:white;
+    text-transform: uppercase;
+    font-family: $font-family-title;
+    padding-left:110px;
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+     .fa-angle-down{
+         font-size:20px;
+         color:white;
+         display: flex;
+         padding-right:50px;
+     }
+}
+
+.button_serre:active{
+    text-decoration: none;
+    border: 1,5px solid white;
+    background-color: white;
+    color:black;
+    font-weight:bold;
+    .fa-angle-down{
+        color:black;
+    }
+}
+
+.button_serre:focus {
+    outline:0;
+}
 
 /*FORMULIER*/
 
