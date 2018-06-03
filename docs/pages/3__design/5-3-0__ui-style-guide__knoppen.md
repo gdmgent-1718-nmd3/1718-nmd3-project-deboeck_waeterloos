@@ -9,16 +9,23 @@ title: Knoppen
 <h2>Smartwatch</h2>
 
 <img src="../../../images/knop_watch.png" alt="knop watch" class="knop_watch">
-<p>Dit is de knop in onze smartwatch.</p>
-   
+<img src="../../../images/knop_watch_activate.png" alt="knop watch" class="knop_watch">
+
+<p>Dit is de knop die gebruikt wordt in de smartwatch app. De rechter knop (oranje) is de active state van de knop. </p>
+
 <h2>Smartphone</h2>
 
-<div>
-    <p> <a href="#" class="button-primary">museumbezoek</a></p>
-    <p> <a href="#" class="button-primary">evenementen</a></p>
-    <p> <a href="#" class="button-primary">tickets</a></p>
-    <p> <a href="#" class="button-secundary">klaar</a></p>
-    <p> <a href="#" class="button-tertiary">koop tickets</a></p>
-    <p> <a href="#" class="button-tertiary">terug</a></p>
-    <p> <a href="#" class="button-tertiary">nummer invoeren</a></p> 
-</div>
+
+<button class="button_museumbezoek">Museumbezoek<i class="pijltje_white"></i></button>
+<button class="button_museumbezoek">Evenementen</button>
+<button class="button_museumbezoek">Tickets</button>
+<br>
+<br>
+<button class="button_klaar">klaar</button>
+<br>
+<br>
+<button class="button_nummer_invoeren">nummer invoeren</button>
+<br>
+<p>Dit is zijn de knoppen die gebruikt worden in de smartphone app. Bij klikken wordt hun active state geactiveerd. </p>
+
+
